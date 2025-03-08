@@ -32,6 +32,9 @@ Efficient Memory Management for Large Language Model Serving with PagedAttention
 为什么现在的LLM都是Decoder only的架构？ - Jennie666999的回答 - 知乎
 https://www.zhihu.com/question/588325646/answer/2970989277
 
+面试鹅厂，被FlashAttention虐的体无完肤... - 丁师兄大模型的文章 - 知乎
+https://zhuanlan.zhihu.com/p/11273327848
+
 Rope
 训练
 benchmark
